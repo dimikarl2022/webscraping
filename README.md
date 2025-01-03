@@ -25,7 +25,7 @@ A lightweight and modular web scraping library built with Python. This project p
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/python-web-scraper.git
+git clone https://github.com/dimikarl2022/python-web-scraper.git
 cd python-web-scraper
 ```
 
